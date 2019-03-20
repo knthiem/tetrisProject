@@ -1,0 +1,9 @@
+﻿  Board.cpp
+  Game.cpp
+f:\sdlprojects\tetrisproject\tetrisproject\io.h(5): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  IO.cpp
+f:\sdlprojects\tetrisproject\tetrisproject\io.h(5): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Pieces.cpp
+  Main.cpp
+f:\sdlprojects\tetrisproject\tetrisproject\io.h(5): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
